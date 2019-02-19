@@ -1,0 +1,9 @@
+@import 'variables.scss';
+@import 'header/header';
+@import './rental/rental-listing';
+
+.page-title {
+    font-size: !important 30px;
+    font-weight: 700 !important;
+    margin-bottom: 20px !important;
+}
